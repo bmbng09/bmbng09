@@ -9,6 +9,8 @@
 
 - 🏫I study at Pertamina University [https://universitaspertamina.ac.id/](https://universitaspertamina.ac.id/)
 
+- Email **bambangistijab30@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ijab09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ijab09" height="30" width="40" /></a>
@@ -17,6 +19,7 @@
 <a href="https://instagram.com/https://www.instagram.com/bmbng.i_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bmbng.i_/" height="30" width="40" /></a>
 <a href="https://medium.com/@bmbngist" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bmbngist" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/@bambangistijab8076" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bambangistijab8076" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/hardy_pixel_32" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/hardy_pixel_32" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/bambangisb2eg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/bambangisb2eg/" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/vnbADfBr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/vnbADfBr" height="30" width="40" /></a>
 </p>
