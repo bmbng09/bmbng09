@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/ijab09" target="blank"><img src="https://img.shields.io/twitter/follow/ijab09?logo=twitter&style=for-the-badge" alt="ijab09" /></a> </p>
 
+<img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+
 - 🏫I study at Pertamina University [https://universitaspertamina.ac.id/](https://universitaspertamina.ac.id/)
 
 - Portofolio [https://tht-pemweb-ivory.vercel.app/](https://tht-pemweb-ivory.vercel.app/)
